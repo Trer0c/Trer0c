@@ -1,7 +1,10 @@
+## About me
+
 - 👋 Hi, I’m @Trer0c
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I work as a senior developer on unity 2D/3D
 
-
+## My skills
+- Unity 2D
+- Unity 3D
+- C#
+- JavaScript
